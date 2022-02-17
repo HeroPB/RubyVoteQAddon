@@ -1,0 +1,3 @@
+name: RubyVoteQAddon
+version: '${project.version}'
+main: it.rubycraft.rubyvoteqaddon.VoteMCItalia
